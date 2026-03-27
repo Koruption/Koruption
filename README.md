@@ -10,7 +10,7 @@
 ██   ████ ███████    ██    ██████  ███████      ██ 
 ```
 
-*creative engineer exploring the intersection of interaction, sound, and systems*
+*exploring the intersection of interaction art, science, and systems*
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### ✦ about
 
-I craft interactive experiences and terminal applications that blend creative design with functional systems. My work spans from audio tooling to world-building frameworks—each project exploring new ways to interact with technology.
+Engineer with a background in applied mathematics, interested in how complex systems behave. I like building models, designing clean architectures, and turning intuition into working systems. Always chasing simpler, more honest ways to solve hard problems.
 
 ---
 
@@ -56,11 +56,39 @@ I craft interactive experiences and terminal applications that blend creative de
 ---
 
 ### ✦ interests
+I have many, but here's a few:
 
-**Systems** → state management, event loops, render optimization  
-**Experience** → terminal UX, interactive design, animation  
-**Sound** → audio processing, spatial design, composition  
-**Worlds** → procedural generation, ecosystems, emergence  
+- Systems design & architecture  
+- Predictive modeling & inference  
+- Distributed systems & memory models  
+- Computational physics (fluids, EM, simulation)  
+- Market dynamics & liquidity modeling
+
+## ✦ references
+
+- Feynman Lectures (intuition > formalism)  
+  https://www.feynmanlectures.caltech.edu/
+
+- Bret Victor — Inventing on Principle  
+  https://www.youtube.com/watch?v=PUv66718DII
+
+- Dynamicland (computation as a physical medium)  
+  https://dynamicland.org/
+
+- Doering — Navier-Stokes (fluid intuition grounded in math)  
+  https://www.amazon.com/dp/0521145275
+
+- MacKay — Information Theory (probability as logic)  
+  http://www.inference.org.uk/mackay/itila/
+
+- Shannon (communication as structure)  
+  https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+
+- David Deutsch — The Beginning of Infinity  
+  https://www.amazon.com/dp/0143121359
+
+- Santa Fe Institute (complex systems, emergence)  
+  https://www.complexityexplorer.org/
 
 ---
 
@@ -68,7 +96,7 @@ I craft interactive experiences and terminal applications that blend creative de
 
 <div align="center">
 
-`Python` `JavaScript` `Systems Design` `CLI/TUI` `Audio` `Procedural Generation` `Reactive Patterns`
+`Python` `Typescript` `Go` `C+` `C#` `Figma` `Systems Design` 
 
 </div>
 
@@ -82,5 +110,5 @@ I craft interactive experiences and terminal applications that blend creative de
 ---
 
 <div align="center">
-<sub>always building. always exploring.</sub>
+<sub>go build something cool</sub>
 </div>
