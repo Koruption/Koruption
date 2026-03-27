@@ -10,7 +10,7 @@
 ██   ████ ███████    ██    ██████  ███████      ██ 
 ```
 
-*exploring the intersection of interaction art, science, and systems*
+*exploring art, science, and systems*
 
 ---
 
