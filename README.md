@@ -30,20 +30,20 @@ Engineer with a background in applied mathematics, interested in how complex sys
       <h4>🎵 <a href="https://github.com/Koruption/Pakkit">Pakkit</a></h4>
       <p>A reactive framework for building expressive, animated CLI applications. React-style components meet game engine render loops—all optimized for the terminal.</p>
       <p><strong>Why?</strong> Terminal apps deserve to be beautiful and easy to build.</p>
-      <code>Python</code> • <code>State Management</code> • <code>Animation</code>
+      <code>Python</code> • <code>CLI Renderer</code> • <code>Animation</code>
     </td>
     <td width="50%">
       <h4>🌍 <a href="https://github.com/Koruption/Tinyworld">Tinyworld</a></h4>
       <p>A procedurally generated world-building system with persistent ecosystems. Create, explore, and evolve living digital environments.</p>
       <p><strong>Why?</strong> Because worlds should be alive.</p>
-      <code>World Generation</code> • <code>Procedural</code> • <code>Ecosystems</code>
+      <code>World Generation</code> • <code>Procedural</code> • <code>2D Game Engine</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4>🎨 <a href="https://github.com/Koruption/Motif">Motif</a></h4>
       <p>Design patterns and component library for cohesive, responsive interfaces.</p>
-      <code>Design Systems</code> • <code>Components</code> • <code>UI/UX</code>
+      <code>Music Generation</code> • <code>Markov Chain</code> • <code>Image Analysis</code>
     </td>
     <td width="50%">
       <h4>📦 Nerapakker</h4>
